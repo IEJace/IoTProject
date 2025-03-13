@@ -11,7 +11,7 @@ Time (Minutes)
 
 .csv is exported data from the .hex :
 *v2 automatically converts data to google spreadsheet
-
+datalogger can only be used with mircobit v2 and newer
 
 SleepAnalyse.py : 
 Analyses the raw data from the .csv file by comparing the data to the HSE recommended temperature,sound level, light level and sleep cycle time.
