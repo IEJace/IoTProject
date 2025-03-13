@@ -1,3 +1,4 @@
-# IoTProject
-21/01/25
-:3 
+#IoTProject2
+13/03/25
+
+This branch will be used for the IoT Project in the latter half of the semester.
