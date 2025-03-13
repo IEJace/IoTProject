@@ -12,3 +12,6 @@ IOTProject 1 - Microbit Sleep project(SQO)
 
 
 IOTProject 2 - TBD
+
+
+NB - Seemingly random changes being committed (random files added or deleted) are purposeful as some of us couldn't save changes and we were tinkering to figure out why
