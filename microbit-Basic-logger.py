@@ -45,4 +45,4 @@ def on_every_interval():
             datalogger.create_cv("Light", input.light_level()),
             datalogger.create_cv("Sound", input.sound_level()),
             datalogger.create_cv("Time", Time))
-loops.every_interval(1000, on_every_interval)
+loops.every_interval(60000, on_every_interval)
