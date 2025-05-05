@@ -12,6 +12,7 @@ IOTProject 1 - Microbit Sleep project(SQO)
 
 
 IOTProject 2 - Microbit Sleep project (SQO)
+IoT_Project.ino writes data from arduino serial port to Google Sheets
 
 
 
